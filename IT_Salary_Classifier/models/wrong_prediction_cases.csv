@@ -1,0 +1,49 @@
+﻿job_title,company,location,salary_million_vnd,is_imputed,title_clean,company_clean,exp_years,level_score,is_big_company,is_english,job_category,salary_label,Actual_Class,Predicted_Class
+Chuyên viên Phân tích nghiệp vụ (Business Analyst),Công ty TNHH Chứng khoán Ngân hàng TMCP Ngoại thương Việt Nam (VCBS - Vietcombank Securities),Hà Nội,11.5,1,chuyen vien phan tich nghiep vu business analyst,cong ty tnhh chung khoan ngan hang tmcp ngoai thuong viet nam vcbs vietcombank securities,2.5,2,1,0,Data/AI,0,0,1
+Senior AI Engineer,HR Vietnam’s ESS Client,Hà Nội,45.0,0,senior ai engineer,hr vietnam s ess client,5.0,4,0,1,Data/AI,2,2,1
+SAP BASIS CONSULTANT (Juniors / Mid-Level / Seniors),Teamwork Vietnam Ltd,Hồ Chí Minh,36.5,0,sap basis consultant juniors mid level seniors,teamwork vietnam ltd,1.0,1,0,1,Support/Other,2,2,1
+SEO ( Seo Top Google & Quản trị web),CÔNG TY TNHH IN ẤN KỸ THUẬT MỚI TÂN HOA MAI,Hồ Chí Minh,10.0,0,seo seo top google quan tri web,cong ty tnhh in an ky thuat moi tan hoa mai,2.5,2,0,1,Dev,0,0,1
+IT Helpdesk (F&B | Retail) (MỚI),CÔNG TY TNHH DỊCH VỤ THỰC PHẨM VÀ GIẢI KHÁT VIỆT NAM VFBS,Hồ Chí Minh,22.9,1,it helpdesk f b retail moi,cong ty tnhh dich vu thuc pham va giai khat viet nam vfbs,2.5,2,0,1,Support/Other,1,1,0
+Marcom Account Executive,Công ty Cổ phần Tập đoàn Meey Land,Hà Nội,14.5,0,marcom account executive,cong ty co phan tap doan meey land,2.5,2,1,1,Support/Other,0,0,1
+ELV Engineer - Kỹ Sư Điện Nhẹ,Công Ty Cổ Phần Netcab,Hà Nội,14.0,0,elv engineer ky su dien nhe,cong ty co phan netcab,2.5,2,0,0,Support/Other,0,0,1
+Project manager (AI / Automation),CÔNG TY TNHH ASHTON FURNITURE CONSOLIDATION,Bà Rịa - Vũng Tàu,40.0,0,project manager ai automation,cong ty tnhh ashton furniture consolidation,8.0,5,0,1,Management,2,2,1
+Nhân Viên Thiết Kế Quảng Cáo,Công ty cổ phần giải pháp NHK,Hà Nội,11.5,0,nhan vien thiet ke quang cao,cong ty co phan giai phap nhk,2.5,2,0,0,Support/Other,0,0,1
+Account Management Intern - Chuyển Đổi Số SaaS (Lark Suite),Công ty Cổ phần Công nghệ UpBase,Hà Nội,7.0,0,account management intern chuyen doi so saas lark suite,cong ty co phan cong nghe upbase,0.5,0,0,1,Support/Other,0,0,1
+[NHÀ MÁY] INFORMATION TECHNOLOGY MANAGER,Công Ty Cổ Phần Vacxin Việt Nam,"Hồ Chí Minh
+Long An",41.04742922461401,1,nha may information technology manager,cong ty co phan vacxin viet nam,8.0,5,0,1,Management,2,2,1
+Data Engineer Leader,Công Ty Cổ Phần TARA,Hồ Chí Minh,46.75,1,data engineer leader,cong ty co phan tara,5.0,4,0,1,Data/AI,2,2,1
+CHUYÊN VIÊN LẬP TRÌNH (AUTOMATION AI),CÔNG TY TNHH HQ SING,Hồ Chí Minh,15.0,0,chuyen vien lap trinh automation ai,cong ty tnhh hq sing,2.5,2,0,0,Data/AI,0,0,1
+Giảng Viên Thiết Kế Vi Mạch,TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN,Hồ Chí Minh,20.0,0,giang vien thiet ke vi mach,truong dai hoc cong nghe thong tin,2.5,2,0,1,Support/Other,1,1,2
+Data Scientist - AI Engineer,CÔNG TY TNHH SOCOTEC VIỆT NAM,Hà Nội,42.5,0,data scientist ai engineer,cong ty tnhh socotec viet nam,2.5,2,0,1,Data/AI,2,2,1
+AI Engineer,CÔNG TY CỔ PHẦN CÔNG NGHỆ PREP,Hà Nội,40.0,0,ai engineer,cong ty co phan cong nghe prep,2.5,2,0,1,Data/AI,2,2,1
+Trưởng phòng Chất lượng III - Tiếng Trung,CÔNG TY TNHH ELECTRONIC TRIPOD VIỆT NAM (CHÂU ĐỨC),"Bà Rịa - Vũng Tàu
+Đồng Nai",15.189883971846875,1,truong phong chat luong iii tieng trung,cong ty tnhh electronic tripod viet nam chau duc,8.0,5,0,0,Support/Other,1,1,2
+Chuyên viên Hỗ trợ người dùng (ITHelpdesk),Ngân hàng Thương mại cổ phần Đông Nam Á (SeABank),Hà Nội,21.7,1,chuyen vien ho tro nguoi dung ithelpdesk,ngan hang thuong mai co phan dong nam a seabank,2.5,2,1,0,Support/Other,1,1,0
+Nhân viên Tester,Công Ty Cổ Phần Giải Pháp Thanh Toán Việt Nam (VNPAY),Hà Nội,18.7,1,nhan vien tester,cong ty co phan giai phap thanh toan viet nam vnpay,2.5,2,0,0,QA/BA,1,1,0
+Kỹ Sư Vận Hành Dịch Vụ,Công ty Cổ phần Tập đoàn Leeon Group,Hà Nội,12.5,0,ky su van hanh dich vu,cong ty co phan tap doan leeon group,2.5,2,1,0,Support/Other,0,0,1
+"CV/CVCC Quản trị, rủi ro, tuân thủ ATTT (Security GRC Analyst)",CÔNG TY TÀI CHÍNH TNHH NGÂN HÀNG TMCP SÀI GÒN - HÀ NỘI (SHBFinance),Hà Nội,11.5,1,cv cvcc quan tri rui ro tuan thu attt security grc analyst,cong ty tai chinh tnhh ngan hang tmcp sai gon ha noi shbfinance,2.5,2,1,1,Data/AI,0,0,1
+Chuyên viên Kiểm thử phần mềm,Công ty TNHH Chứng khoán Ngân hàng TMCP Ngoại thương Việt Nam (VCBS - Vietcombank Securities),Hà Nội,11.5,1,chuyen vien kiem thu phan mem,cong ty tnhh chung khoan ngan hang tmcp ngoai thuong viet nam vcbs vietcombank securities,2.5,2,1,0,Support/Other,0,0,1
+IT Project Coordinator,Wanek Furniture,Bình Dương,16.729681788909666,1,it project coordinator,wanek furniture,2.5,2,0,1,Support/Other,1,1,0
+"Application Development Manager/ Java Lead (Java, AWS)",Công Ty Cổ Phần Uniben,Hồ Chí Minh,46.75,1,application development manager java lead java aws,cong ty co phan uniben,5.0,4,0,1,Management,2,2,1
+"Thực tập sinh Developer ( Không trợ cấp, Hỗ trợ Mộc thực tập)",LacViet Computing Corporation,Hồ Chí Minh,15.358505529702127,1,thuc tap sinh developer khong tro cap ho tro moc thuc tap,lacviet computing corporation,0.5,0,0,0,Support/Other,1,1,0
+Technical Support (TS) Engineer (Chinese Speaking),Bảo mật,Hà Nội,35.0,0,technical support ts engineer chinese speaking,bao mat,2.5,2,0,1,Support/Other,1,1,0
+Senior Software Engineer – CRM & ERP Systems,California Wellness Group,Hồ Chí Minh,38.5,1,senior software engineer crm erp systems,california wellness group,5.0,4,1,1,Support/Other,2,2,1
+Phó Phòng Giải Pháp Công Nghệ Cao,Công ty TNHH PNK,Hà Nội,37.5,0,pho phong giai phap cong nghe cao,cong ty tnhh pnk,2.5,2,0,0,Support/Other,2,2,1
+CHUYÊN VIÊN CHUYỂN ĐỔI SỐ XÂY DỰNG (Chuyên môn QS),Tổng công ty Xây dựng số 1 – CTCP,Hồ Chí Minh,19.6,1,chuyen vien chuyen doi so xay dung chuyen mon qs,tong cong ty xay dung so ctcp,2.5,2,0,0,Support/Other,1,1,0
+Data Governance Expert,LOTTE FINANCE VIETNAM,Hà Nội,32.826086956521735,1,data governance expert,lotte finance vietnam,2.5,2,0,1,Data/AI,1,1,0
+AI Engineer,Công Ty Cổ phần Tài Việt (Vietstock.vn),Hồ Chí Minh,13.0,0,ai engineer,cong ty co phan tai viet vietstock vn,2.5,2,0,1,Data/AI,0,0,1
+Chuyên viên Đảm Bảo Hoạt Động Hạ Tầng Thiết Bị,CÔNG TY CỔ PHẦN TIN HỌC - VIỄN THÔNG HÀNG KHÔNG AITS,Hồ Chí Minh,14.5,0,chuyen vien dam bao hoat dong ha tang thiet bi,cong ty co phan tin hoc vien thong hang khong aits,2.5,2,0,0,Support/Other,0,0,1
+Thực tập sinh QC Không lương ( Hỗ trợ dấu mộc ),LacViet Computing Corporation,Hồ Chí Minh,15.358505529702127,1,thuc tap sinh qc khong luong ho tro dau moc,lacviet computing corporation,0.5,0,0,0,QA/BA,1,1,0
+Senior Business Analyst (Data) - TNTech - 2V045,Tập đoàn ROX (ROX Group),Hà Nội,37.5,0,senior business analyst data tntech v,tap doan rox rox group,5.0,4,1,1,Data/AI,2,2,1
+HCM_Giáo viên Tin học,Công ty CP IIG Việt Nam,Hồ Chí Minh,10.499999999999998,0,hcm giao vien tin hoc,cong ty cp iig viet nam,2.5,2,0,1,Support/Other,0,0,1
+Data Engineer,Công Ty CP Dược Phẩm Pharmacity,Hồ Chí Minh,19.6,1,data engineer,cong ty cp duoc pham pharmacity,2.5,2,0,1,Data/AI,1,1,0
+AI Prompt Engineer,Công ty Cổ phần Mỹ phẩm Quốc tế Thùy Dung,Hồ Chí Minh,15.0,0,ai prompt engineer,cong ty co phan my pham quoc te thuy dung,2.5,2,0,1,Data/AI,0,0,1
+Fresher Business Analysis (Chuyển Đổi Số Quy Trình),Công ty Cổ phần Công nghệ UpBase,Hà Nội,11.5,0,fresher business analysis chuyen doi so quy trinh,cong ty co phan cong nghe upbase,1.0,1,0,1,Support/Other,0,0,1
+Bình Dương - Kỹ sư phát triển Power Platform,CÔNG TY TNHH POLYTEX FAR EASTERN (VIỆT NAM),Bình Dương,14.0,0,binh duong ky su phat trien power platform,cong ty tnhh polytex far eastern viet nam,2.5,2,0,0,Support/Other,0,0,1
+Trưởng phòng Quản trị Kiến trúc công nghệ - K.CNTT,Ngân hàng TMCP Đại Chúng Việt Nam - PVcomBank,Hà Nội,22.4,1,truong phong quan tri kien truc cong nghe k cntt,ngan hang tmcp dai chung viet nam pvcombank,8.0,5,1,0,Support/Other,1,1,2
+Nhân viên IT (IT Helpdesk),Công Ty Cổ Phần TEKCOM,Bình Dương,17.0,1,nhan vien it it helpdesk,cong ty co phan tekcom,2.5,2,0,0,Support/Other,1,1,0
+Trưởng phòng công nghệ thông tin,CÔNG TY CỔ PHẦN ĐẦU TƯ BeNK,Hà Nội,32.5,0,truong phong cong nghe thong tin,cong ty co phan dau tu benk,8.0,5,0,0,Support/Other,1,1,2
+Threat and Process Compliance Lead,Coca-Cola Beverages Vietnam,Hồ Chí Minh,46.75,1,threat and process compliance lead,coca cola beverages vietnam,5.0,4,0,1,Management,2,2,1
+NHÂN VIÊN THIẾT KẾ TẠI HẢI PHÒNG,Công ty TNHH Phát triển BĐS Novasky,Hải Phòng,10.0,0,nhan vien thiet ke tai hai phong,cong ty tnhh phat trien bds novasky,2.5,2,0,0,Support/Other,0,0,1
+[I1] TRƯỞNG NHÓM IT SUPPORT,BellSystem24 Việt Nam,Hà Nội,14.5,0,i truong nhom it support,bellsystem viet nam,2.5,2,0,0,Support/Other,0,0,1
+Senior Full stack Developer - Odoo,Tập Đoàn Karofi Holding,Hà Nội,36.0,0,senior full stack developer odoo,tap doan karofi holding,5.0,4,1,1,Support/Other,2,2,1
